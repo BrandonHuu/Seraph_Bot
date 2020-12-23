@@ -1,4 +1,6 @@
 # Log files
 *.Log
+*.log
 
+package-lock.json
 node_modules/
