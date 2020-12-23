@@ -1,0 +1,1 @@
+module.exports.ServerConfig = require('./serverConfigs.model')
