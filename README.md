@@ -32,13 +32,13 @@ Set - sets a serverConfig variable
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/BrandonHuu/Seraph_Bot.svg?style=for-the-badge
 [contributors-url]: https://github.com/BrandonHuu/Seraph_Bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/BrandonHuu/Seraph_Bot.svg?style=for-the-badge
 [forks-url]: https://github.com/BrandonHuu/Seraph_Bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/BrandonHuu/Seraph_Bot.svg?style=for-the-badge
 [stars-url]: https://github.com/BrandonHuu/Seraph_Bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/BrandonHuu/Seraph_Bot.svg?style=for-the-badge
 [issues-url]: https://github.com/BrandonHuu/Seraph_Bot//issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/BrandonHuu/Seraph_Bot.svg?style=for-the-badge
 [license-url]: https://github.com/BrandonHuu/Seraph_Bot/blob/master/LICENSE.txt
