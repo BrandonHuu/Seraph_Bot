@@ -3,7 +3,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 
 # Seraph_Bot
 A Discord bot for server moderation. Created in 2 hours
