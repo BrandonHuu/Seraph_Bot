@@ -7,7 +7,7 @@ const Run = async function(Message){
     const Config = await ServerConfig.findOne({GuildID: Message.guild.id});
 
     if(!Config.Config.Leader_Role) return Message.reply(`You must set the \`Leader_Role\` option to a server role the Current value is \`${Config.Leader_Role}\``);
-    const Authorized = Message.member.roles.cache.find(role => role.id === Config.Config.Leader_Role);
+    const Authorized = Message.member.roles.cache.get(Config.Config.Leader_Role);
     if(!Authorized) return;
 
     //Replies with the serverConfig of the current server
